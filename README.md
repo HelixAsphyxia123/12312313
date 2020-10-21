@@ -2,15 +2,15 @@
 
 *Se desarollo un programa el cual se necesita un usuario y contraseña para poder administrar el acceso de los alumnos y que estos puedan elegir que materia tomar(funcion adicional agregada por parte de Valtierra Lopez Carlos Andres).*
 
-1.- Contiene una ventana en donde se solicita el usuario y la contraseña para poder acceder a las funciones del programa y esta conectado a SQL para poder trabajarlo, ya que se necesito de una base de datos, la cual, use SQL para poder trabajarlo.
+*1.- Contiene una ventana en donde se solicita el usuario y la contraseña para poder acceder a las funciones del programa y esta conectado a SQL para poder trabajarlo, ya que se necesito de una base de datos, la cual, use SQL para poder trabajarlo.*
 
-2.- En caso de no tenerlo conectado a nuestra base de datos, no se puede trabajar con la aplicacion y mandara error al momento de ingresar nuestras credenciales.
+*2.- En caso de no tenerlo conectado a nuestra base de datos, no se puede trabajar con la aplicacion y mandara error al momento de ingresar nuestras credenciales.*
 
-3.- Tiene la funcion de dar de baja y de alta materias al igual que usuarios.
+*3.- Tiene la funcion de dar de baja y de alta materias al igual que usuarios.*
 
 # Pre-requisitos 📋
 
-*Se necesita tener instalado y configurado previamente SQL para poder acceder a la aplicacion.
+*Se necesita tener instalado y configurado previamente SQL para poder acceder a la aplicacion.*
 
 # Elementos visuales y funcionamiento.
 
