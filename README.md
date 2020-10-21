@@ -65,4 +65,5 @@ import javax.swing.JPasswordField;
  
  # Resultados.
 ![](figures/logo_rmarkdown.png)
+![](figures/logo_rmarkdown1.png)
  
